@@ -6,10 +6,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=nislam-sm&style=for-the-badge&color=blueviolet)](https://github.com/nislam-sm)
-[![GitHub Followers](https://img.shields.io/github/followers/nislam-sm?label=Followers&style=for-the-badge&color=blue)](https://github.com/nislam-sm)
-[![GitHub Stars](https://img.shields.io/github/stars/nislam-sm?label=Stars&style=for-the-badge&color=yellow)](https://github.com/nislam-sm)
-
 </div>
 
 ---
