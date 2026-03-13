@@ -15,16 +15,15 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```python
-class Researcher:
+class Dreamer:
     def __init__(self):
         self.name = "Noor Islam S. Mohammad"
-        self.role = "Graduate Student Researcher"
-        self.focus = "Theoretical Computer Science"
+        self.role = "There is no genius without madness"
+        self.focus = "Computer Science"
         self.interests = [
             "Machine Learning",
             "Artificial Intelligence", 
-            "Human Computer Interaction",
-            "Trustworthy AI",
+            "Computer Vision",
             "Deep Learning"
         ]
         self.current_status = "Building the future 🚀"
@@ -32,15 +31,15 @@ class Researcher:
     def say_hi(self):
         print("Thanks for dropping by! Let's connect and build something amazing together!")
 
-me = Researcher()
+me = idiot()
 me.say_hi()
 ```
 
-- 🎓 **Graduate Student Researcher** | **Research Assistant**
+- 🎓 **Graduate Student Researcher** | **ICML 2026 Reviewer**
 - 🔬 Focused on **Theoretical Computer Science** & **Explainable AI**
 - 💡 Passionate about making AI systems more trustworthy and interpretable
 - 🌱 Currently exploring cutting-edge research in ML/AI
-- 💬 Ask me about: **ML, AI, HCI, Trustworthy AI, Deep Learning**
+- 💬 Ask me about: **ML, AI, Computer Vision, Deep Learning**
 - ⚡ Fun fact: Efficiency is my middle name (I'm strategically lazy 😄)
 - 📫 Let's collaborate on innovative projects!
 
