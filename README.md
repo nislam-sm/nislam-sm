@@ -118,15 +118,23 @@ me.say_hi()
 
 <div align="center">
 
-| 🧠 Deep Learning | 🔍 Pattern Recognition | 🖼️ Image Analysis |
+| 🤖 Multimodal AI & LLMs | 🖼️ Computer Vision | 📝 Natural Language Processing |
 |:---:|:---:|:---:|
-| Neural Networks | Computer Vision | Medical Imaging |
-| Model Optimization | Feature Extraction | Object Detection |
+| Vision–Language Learning | Image Analysis | Language Understanding |
+| Explainability | Object Detection | NLP Systems |
+| Robustness | Visual Recognition | Text Intelligence |
 
-| 🤖 Explainable AI | 🛡️ Trustworthy AI | 💡 HCI |
+| 🧠 Deep Learning | 📊 Machine Learning | 🔄 Continual Learning |
 |:---:|:---:|:---:|
-| Interpretability | Fairness & Ethics | User Experience |
-| Model Transparency | Robust Systems | Interface Design |
+| Neural Architectures | Statistical Learning | Lifelong Adaptation |
+| Representation Learning | Predictive Modeling | Knowledge Retention |
+| Optimization | Intelligent Systems | Domain Generalization |
+
+| 🌐 Federated Learning | 🎯 Multi-Task Learning | 🔍 Trustworthy AI |
+|:---:|:---:|:---:|
+| Privacy-Preserving Models | Joint Task Learning | Fairness |
+| Distributed Training | Shared Representations | Transparency |
+| Collaborative Intelligence | Efficient Generalization | Robustness |
 
 </div>
 
