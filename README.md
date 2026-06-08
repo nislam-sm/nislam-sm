@@ -9,11 +9,11 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 
 <div align=center>
   
- [![website](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=rss&color=1f1f15)](https://azminewasi.github.io) 
+ [![website](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=rss&color=1f1f15)](https://bio.link/nislam) 
  [![linkedin](https://img.shields.io/badge/LinkedIn-%320beff?style=flat-square&logo=linkedin&color=1f1f18)](https://www.linkedin.com/in/noor-islam-sm/) 
  [![kaggle](https://img.shields.io/badge/Kaggle-%2320beff?style=flat-square&logo=kaggle&color=1f1f1f)](https://www.kaggle.com/noorislamsmohammad) 
  [![google-scholar](https://img.shields.io/badge/Google%20Scholar-%2320beff?style=flat-square&logo=google-scholar&color=1f1f18)](https://scholar.google.com/citations?user=hvBAaWwAAAAJ&hl=en)
- [![arxiv](https://img.shields.io/badge/arXiv-%2320beff?style=flat-square&amp;logo=arxiv&amp;color=1f1f15)](https://arxiv.org/a/wasi_a_1.html)
+ [![arxiv](https://img.shields.io/badge/arXiv-%2320beff?style=flat-square&amp;logo=arxiv&amp;color=1f1f15)](https://arxiv.org/search/?searchtype=author&query=Mohammad%2C+N+I+S)
  [![twitter](https://img.shields.io/badge/Twitter-%2320beff?style=flat-square&amp;logo=twitter&amp;color=1f1f15)](https://twitter.com/nislam_mohammad)
  [![ORCID](https://img.shields.io/badge/ORCID-%2320beff?style=flat-square&amp;logo=orcid&amp;color=1f1f15)](https://orcid.org/0009-0007-8823-6681)
   
