@@ -2,45 +2,54 @@
 
 ---
 <h3 align="center">
-Machine Learning Researcher</br> 
- (Graph Neural Nets, Biomedical AI, AI Agents, Human-centric AI & NLP) </br> 
-Kaggle Grandmaster | Explorer | Looking for research opportunities
+Machine Learning Researcher</br>
+(Deep Learning, LLMs, Reasoning Systems)</br>
+Peer Reviewer @ ICML · NeurIPS | Prospective PhD Student
 </h3>
 
 <div align=center>
-  
- [![website](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=rss&color=1f1f15)](https://bio.link/nislam) 
- [![linkedin](https://img.shields.io/badge/LinkedIn-%320beff?style=flat-square&logo=linkedin&color=1f1f18)](https://www.linkedin.com/in/noor-islam-sm/) 
- [![kaggle](https://img.shields.io/badge/Kaggle-%2320beff?style=flat-square&logo=kaggle&color=1f1f1f)](https://www.kaggle.com/noorislamsmohammad) 
- [![google-scholar](https://img.shields.io/badge/Google%20Scholar-%2320beff?style=flat-square&logo=google-scholar&color=1f1f18)](https://scholar.google.com/citations?user=hvBAaWwAAAAJ&hl=en)
- [![arxiv](https://img.shields.io/badge/arXiv-%2320beff?style=flat-square&amp;logo=arxiv&amp;color=1f1f15)](https://arxiv.org/search/?searchtype=author&query=Mohammad%2C+N+I+S)
- [![twitter](https://img.shields.io/badge/Twitter-%2320beff?style=flat-square&amp;logo=twitter&amp;color=1f1f15)](https://twitter.com/nislam_mohammad)
- [![ORCID](https://img.shields.io/badge/ORCID-%2320beff?style=flat-square&amp;logo=orcid&amp;color=1f1f15)](https://orcid.org/0009-0007-8823-6681)
-  
+
+[![website](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=rss&color=1f1f15)](https://bio.link/nislam)
+[![linkedin](https://img.shields.io/badge/LinkedIn-%320beff?style=flat-square&logo=linkedin&color=1f1f18)](https://www.linkedin.com/in/noor-islam-sm/)
+[![kaggle](https://img.shields.io/badge/Kaggle-%2320beff?style=flat-square&logo=kaggle&color=1f1f1f)](https://www.kaggle.com/noorislamsmohammad)
+[![google-scholar](https://img.shields.io/badge/Google%20Scholar-%2320beff?style=flat-square&logo=google-scholar&color=1f1f18)](https://scholar.google.com/citations?user=hvBAaWwAAAAJ&hl=en)
+[![arxiv](https://img.shields.io/badge/arXiv-%2320beff?style=flat-square&logo=arxiv&color=1f1f15)](https://arxiv.org/search/?searchtype=author&query=Mohammad%2C+N+I+S)
+[![twitter](https://img.shields.io/badge/Twitter-%2320beff?style=flat-square&logo=twitter&color=1f1f15)](https://twitter.com/nislam_mohammad)
+[![ORCID](https://img.shields.io/badge/ORCID-%2320beff?style=flat-square&logo=orcid&color=1f1f15)](https://orcid.org/0009-0007-8823-6681)
+
 </div>
 
 ---
 ## [**About**](https://nislam-sm.github.io/) :
-- An aspiring AI researcher and engineering student, developing **human-centric, safe, reliable**, and **robust** machine learning systems. Over the past few years, my work has converged on a single goal: building AI systems that strengthen healthcare access (bio/medical, clinical, and mental) and overall quality of life. To achieve this, I am focusing on three interconnected directions:
-   - **Generative AI, Agents, and Reasoning:** Designing Agentic LLM and VLM systems capable of structured reasoning, adaptive planning, and context-aware decision support with measurable accuracy and clear human-facing communication.
-   - **Computational Biology and Health Informatics:** Developing data-driven methods that integrate biological, chemical, and clinical evidence. This includes using Graph Neural Networks (GNNs) and computational biology to detect mechanistic patterns, quantify uncertainty, and generate clinically actionable insights grounded in scientific principles.
-   - ***Human-Computer/AI Interaction (HCI/HAI):** Ensuring measurable safety, reliability, interpretability, and fairness in ML models. I focus on enabling effective human-AI interaction across multilingual, multicultural, and low-resource settings, with a specific interest in Computational Social Science to understand bias and fairness in high-stakes domains.
-- **I am looking forward to pursuing a PhD in Spring/Fall 2026 to continue research** and looking for potential options.
-- My works have been published in prestigious venues **ICML, NeurIPS**, Workshops of **NeurIPS, CVPR, ICML, and ACL**, with ongoing reviews in some others.
-- Outside research, I have work experience in **AI-integrated IT Automation, Project - Product Management, and Analytics** roles.
-- Passionate about **learning new things, sharing my knowledge, improving myself regularly, experimenting with acquired skills, and challenging my capabilities**. 
+- A Machine Learning Researcher specializing in **Deep Learning, Large Language Models, 
+  and Reasoning Systems**, with a focus on building principled, efficient, and reliable 
+  ML systems. My current research interests center on:
+  - **LLM Reasoning and Inference-Time Compute:** Studying how language models reason 
+    under real-world constraints — including resource-bounded and anytime reasoning 
+    settings — to make inference more efficient and predictable.
+  - **Reliable and Robust ML Systems:** Designing systems that maintain correctness and 
+    performance under deployment constraints, with an emphasis on measurable guarantees 
+    and rigorous evaluation.
+  - **Empirical Deep Learning:** Applying careful experimental methodology to understand 
+    model behavior, generalization, and the limits of modern architectures.
+- **Prospective PhD student (Spring/Fall 2027)** — actively seeking research opportunities 
+  in Deep Learning, LLMs, and related areas.
+- Active **peer reviewer** at top-tier ML venues: **ICML 2026** and **NeurIPS 2026**.  
+  Recipient of the 🥇 **Gold Reviewer Award at ICML 2026**.
+- Committed to **rigorous research practices, reproducibility, and the integrity of 
+  scientific evaluation** — values I carry both as a researcher and as a reviewer.
+- Passionate about **continuous learning, precise thinking, and contributing meaningfully 
+  to the ML research community**.
 
-  
 ---
+## [**Technical and ML Modeling Skills**](https://nislam-sm.github.io/) :
 
-## [**Technical and ML Modeling Skills**](https://azminewasi.github.io/) :
-
-- **Languages**: Python (Advanced), C, C++, MATLAB, R, SQL
-- **DS & ML Tools (Python)**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, LangChain, VLLM, Pydantic
-- **Data Science Techniques**: EDA, Experiment Design, Hypothesis Testing, Sampling, and Data-Driven Decision Making
-- **Machine Learning Techniques**: Statistical ML Methods, Deep Learning, NLP, Computer Vision, Graph Neural Networks (GNNs), GFlowNets, Flow Matching, Diffusion Models, RL and Reasoning in LLMs, Self-Verification, Uncertainty, Agentic Decision-Making, AI Reasoning, RAG, and Reward-Based RL Fine-Tuning
-- **Biomedical AI and Clinical Applications**: Molecular Properties, Binder Design, Molecular Interaction, De Novo Protein Design, GNNs, RL/Energy-Guided Modeling, Generative Modeling with Flow Matching and Graph Diffusion, Reward-Based Generative AI, Agentic LLMs, Knowledge Graphs, AI-based Drug Discovery and Genomics
-- **Interdisciplinary AI Research**: AI for Good, Multilinguality, Accessibility, Fairness, Human Factors, Local and Cultural Values
-- **Others**: GitHub, Collaborative Tools (AMs, VS Code, Azure, AnyScale, Replit, Colab, Kaggle), Parallel & Distributed Computing
+- **Languages**: Python (Advanced), C, C++, SQL
+- **DS & ML Tools (Python)**: NumPy, Pandas, Matplotlib, Scikit-learn, PyTorch
+- **Machine Learning Techniques**: Deep Learning, NLP, Large Language Models, 
+  Reasoning in LLMs, Inference-Time Compute, Reinforcement Learning, 
+  Generative Models, Empirical Evaluation and Benchmarking
+- **Research Tools**: LaTeX (Advanced), Git/GitHub, Colab, HPC/Distributed Training
+- **Others**: OpenReview, Academic Writing, Structured Peer Review
 
 [**View All Publications**](https://nislam-sm.github.io/)
